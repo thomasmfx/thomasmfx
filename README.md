@@ -1,4 +1,4 @@
-`print("Hello, welcome to my GitHub profile 😉")`
+`print("Hello, welcome to my GitHub! 😉")`
 
 # About me
 
