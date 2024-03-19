@@ -1,4 +1,4 @@
-`print("Hello, welcome to my GitHub! 😉")`
+`console.log("Hello, welcome to my GitHub! 😉")`
 
 # About me
 
