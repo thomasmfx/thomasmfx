@@ -10,3 +10,5 @@ Estudante universitário e amante de programação, procuro sempre estudar as te
 - 📫 Entre em contato:
   - E-mail: thomasmoisesf@gmail.com
   - LinkedIn: [Thomas Moisés Fernandes](https://www.linkedin.com/in/thomas-moises-fernandes)
+#
+[English version](https://github.com/thomasmfx/thomasmfx/blob/main/README-en.md)
