@@ -1,4 +1,4 @@
-`console.log('Hello, welcome to my GitHub profile! 😉')`
+`console.log('Olá, bem-vindo ao meu perfil do GitHub! 😉')`
 
 # Sobre mim
 
