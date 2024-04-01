@@ -6,7 +6,7 @@ University student and passionate about programming, i always look forward to st
 
 - 🎓 Graduating in Analysis and Systems Development at [Unicid](https://www.unicid.edu.br/)
 - 🔠 [C1 Advanced](https://cert.efset.org/jd3519) English Level
-- 📚 Learning Web Development mainly through [The Odin Project](https://www.theodinproject.com/about)
+- 📚 Currently focusing on learning Web Development
 - 📫 Contact me:
   - E-mail: thomasmoisesf@gmail.com
   - LinkedIn: [Thomas Moisés Fernandes](https://www.linkedin.com/in/thomas-moises-fernandes)
