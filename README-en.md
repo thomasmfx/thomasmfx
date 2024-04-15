@@ -9,4 +9,4 @@ University student and passionate about programming, i always look forward to st
 - 📚 Currently focusing on learning Web Development
 - 📫 Contact me:
   - E-mail: thomasmoisesf@gmail.com
-  - LinkedIn: [Thomas Moisés Fernandes](https://www.linkedin.com/in/thomas-moises-fernandes)
+  - LinkedIn: [Thomas Moisés Fernandes](https://www.linkedin.com/in/thomas-moisesf/)
