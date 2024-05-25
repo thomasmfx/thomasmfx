@@ -4,7 +4,6 @@ console.log('Olá, bem-vindo ao meu GitHub! 😉')
 
 # Sobre mim
 - 👨‍💻 Desenvolvedor Frontend
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas pela [Unicid](https://www.unicid.edu.br/)
 - 🔠 [C1 Advanced](https://cert.efset.org/jd3519) English Level
 
 # Linguagens e Ferramentas
