@@ -10,7 +10,7 @@ console.log('Olá, bem-vindo ao meu GitHub! 😉')
 
 # Sobre mim
 - 👨‍💻 Desenvolvedor Frontend
-- 👨‍🎓 Análise e Desenvolvimento de Sistemas - [FATEC-MC](https://www.fatecmogidascruzes.com.br/)
+- 👨‍🎓 Análise e Desenvolvimento de Sistemas @ [FATEC-MC](https://www.fatecmogidascruzes.com.br/)
 - 🔠 [C1 Advanced](https://cert.efset.org/jd3519) English Level
 
 # Habilidades
