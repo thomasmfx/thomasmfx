@@ -14,7 +14,7 @@ console.log('Olá, bem-vindo ao meu GitHub! 😉')
 - 🔠 [C1 Advanced](https://cert.efset.org/jd3519) English Level
 
 # Habilidades
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,bash,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,bash,npm,webpack)](https://skillicons.dev)
 
 # Contato
 <a href="https://www.linkedin.com/in/thomas-moisesf/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
