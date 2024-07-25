@@ -2,6 +2,12 @@
 console.log('Olá, bem-vindo ao meu GitHub! 😉')
 ```
 
+<div align=center>
+  <a href="https://github.com/thomasmfx">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thomasmfx&show_icons=true&theme=bear&bg_color=00000000" />
+  </a>
+</div>
+
 # Sobre mim
 - 👨‍💻 Desenvolvedor Frontend
 - 👨‍🎓 Análise e Desenvolvimento de Sistemas - [FATEC-MC](https://www.fatecmogidascruzes.com.br/)
@@ -13,18 +19,5 @@ console.log('Olá, bem-vindo ao meu GitHub! 😉')
 # Contato
 <a href="https://www.linkedin.com/in/thomas-moisesf/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:thomasmoisesf@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
-
-<br>
-
-<div align=center>
-  <a href="https://github.com/thomasmfx">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thomasmfx&show_icons=true&theme=bear&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/thomasmfx">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomasmfx&layout=compact&langs_count=8&card_width=320&theme=bear&bg_color=00000000" />
-  </a>
-</div>
-
-<br>
 
 #### [EN-US](https://github.com/thomasmfx/thomasmfx/blob/main/README-en.md)
