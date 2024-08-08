@@ -1,3 +1,6 @@
+#### [EN-US](https://github.com/thomasmfx/thomasmfx/blob/main/README-en.md)
+
+
 ```
 console.log('Olá, bem-vindo ao meu GitHub! 😉')
 ```
@@ -11,7 +14,7 @@ console.log('Olá, bem-vindo ao meu GitHub! 😉')
 # Sobre mim
 - 👨‍💻 Desenvolvedor Frontend
 - 👨‍🎓 Análise e Desenvolvimento de Sistemas @ [FATEC-MC](https://www.fatecmogidascruzes.com.br/)
-- 🔠 [C1 Advanced](https://cert.efset.org/jd3519) English Level
+- 🔠 [C1 Advanced](https://cert.efset.org/jd3519) English level
 
 # Habilidades
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,npm,webpack,linux)](https://skillicons.dev)
@@ -19,5 +22,3 @@ console.log('Olá, bem-vindo ao meu GitHub! 😉')
 # Contato
 <a href="https://www.linkedin.com/in/thomas-moisesf/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:thomasmoisesf@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
-
-#### [EN-US](https://github.com/thomasmfx/thomasmfx/blob/main/README-en.md)
