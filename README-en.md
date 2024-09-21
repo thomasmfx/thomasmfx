@@ -12,7 +12,7 @@ console.log('Hello, welcome to my GitHub! 😉')
 
 # About me
 - 👨‍💻 Frontend Developer
-- 👨‍🎓 Analysis and Systems Development @ [FATEC-MC](https://www.fatecmogidascruzes.com.br/)
+- 👨‍🎓 Analysis and Systems Development @ [FATEC](https://www.fatecmogidascruzes.com.br/)
 - 🔠 [C1 Advanced](https://cert.efset.org/jd3519) English Level
 
 # Skills
