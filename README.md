@@ -5,9 +5,6 @@
 
 <div align="center">
   <a href="https://github.com/thomasmfx">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thomasmfx&show_icons=true&theme=bear&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/thomasmfx">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomasmfx&layout=compact&langs_count=8&card_width=320&theme=bear&bg_color=00000000" />
   </a>
 </div>
@@ -18,10 +15,10 @@
 
 ## 🚀 Sobre mim
 
-- 👨‍💻 Desenvolvedor Frontend apaixonado por criar interfaces rápidas e intuitivas
+- 👨‍💻 Desenvolvedor Frontend apaixonado por criar interfaces dinâmicas, intuitivas e perfomáticas
 - 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas na [FATEC Mogi das Cruzes](https://www.fatecmogidascruzes.com.br/)
 - 🔠 [Certificado C1 Advanced](https://cert.efset.org/jd3519) em inglês
-- 🌱 Atualmente aprofundando conhecimentos em React
+- 🌱 Atualmente me aprofundando em ReactJS
 
 ## 🛠️ Stack
 
@@ -34,7 +31,7 @@
 
 ## 🌐 Projetos em Destaque
 
-- [CVExpress](link) - Um criador de currículos rápido e minimalista. Crie currículos *ATS-friendly* em questão de segundos
+- [CVExpress](link) - Um criador de currículos simples e rápido. Crie currículos *ATS-friendly* em questão de segundos
 
 ## 📫 Contato
 
