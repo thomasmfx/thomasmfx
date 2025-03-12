@@ -1,40 +1,46 @@
 <div align="center">
 
 # Thomas Moisés Fernandes
+
 ### Desenvolvedor Frontend
 
 <div align="center">
   <a href="https://github.com/thomasmfx">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomasmfx&layout=compact&langs_count=8&card_width=320&theme=bear&bg_color=00000000" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thomasmfx&hide_border=true&theme=github_dark_dimmed&rank_icon=github&show_icons=true" />
   </a>
 </div>
 
-[🇺🇸 | English Version](https://github.com/thomasmfx/thomasmfx/blob/main/README-en.md)
+<br>
+
+[🇺🇸 | EN-US](https://github.com/thomasmfx/thomasmfx/blob/main/README.md)
 
 </div>
 
-## 🚀 Sobre mim
+## 📜 Sobre mim
 
-- 👨‍💻 Desenvolvedor Frontend apaixonado por criar interfaces dinâmicas, intuitivas e perfomáticas
-- 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas na [FATEC Mogi das Cruzes](https://www.fatecmogidascruzes.com.br/)
-- 🔠 [Certificado C1 Advanced](https://cert.efset.org/jd3519) em inglês
-- 🌱 Atualmente me aprofundando em ReactJS
+- 📍 São Paulo, Brasil
+- 👨‍💻 Desenvolvedor Frontend. Apaixonado por criar websites dinâmicos, intuitivos e de alto desempenho.
+- 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas na [FATEC-MC](https://www.fatecmogidascruzes.com.br/)
+- 🔠 Inglês - [C1 Avançado](https://cert.efset.org/jd3519)
+- 🌱 tualmente aprofundando meus conhecimentos em React e ferramentas modernas de desenvolvimento web.
 
-## 🛠️ Stack
+<br>
 
-### Linguagens e Frameworks
-[![My Skills](https://skillicons.dev/icons?i=js,react,html,css)](https://skillicons.dev)
+## 🚀 Projetos
 
-### Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=git,jest,npm,linux,webpack,vite)](https://skillicons.dev)
+- **💻 bitShop** - [Deploy](https://bitshop-tech.vercel.app/) | [Repositório](https://github.com/thomasmfx/bitshop) <br>
+- **💼 CVExpress** - [Deploy](https://cvexpress-rose.vercel.app/) | [Repositório](https://github.com/thomasmfx/cvexpress)
 
+<br>
 
-## 🌐 Projetos em Destaque
+## 📚 Habilidades
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,styledcomponents)](https://skillicons.dev)
 
-- [CVExpress](link) - Um criador de currículos simples e rápido. Crie currículos *ATS-friendly* em questão de segundos
+[![My Skills](https://skillicons.dev/icons?i=git,jest,npm,linux,webpack,vite,vitest,vercel)](https://skillicons.dev)
 
-## 📫 Contato
+<br>
 
+## ☕ Contato
 <div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-moises-fernandes/)
@@ -42,7 +48,7 @@
 
 </div>
 
----
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 <div align="center">
 
