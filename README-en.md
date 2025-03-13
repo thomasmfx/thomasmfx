@@ -12,7 +12,7 @@
 
 <br>
 
-[🇧🇷 | PT-BR](https://github.com/thomasmfx/thomasmfx/blob/main/README.md)
+[🇧🇷 | PT-BR](https://github.com/thomasmfx)
 
 </div>
 
