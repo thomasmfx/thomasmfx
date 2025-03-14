@@ -4,16 +4,15 @@
 
 ### Frontend Developer
 
-<a href="https://youtu.be/dQw4w9WgXcQ">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=thomasmfx&hide_border=true&theme=github_dark_dimmed&rank_icon=github&show_icons=true" />
-</a>
-<a href="https://youtu.be/dQw4w9WgXcQ">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasmfx&layout=compact&theme=github_dark_dimmed&hide_border=true&card_width=320" />
-</a>
+<div align="center">
+  <a href="https://youtu.be/dQw4w9WgXcQ">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thomasmfx&hide_border=true&theme=github_dark_dimmed&rank_icon=github&show_icons=true" />
+  </a>
+</div>
 
 <br>
 
-[🇧🇷 | PT-BR](https://github.com/thomasmfx)
+[🇧🇷 | PT-BR](https://github.com/thomasmfx/thomasmfx/blob/main/README.md)
 
 </div>
 

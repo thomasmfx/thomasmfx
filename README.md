@@ -4,16 +4,15 @@
 
 ### Desenvolvedor Frontend
 
-<a href="https://youtu.be/dQw4w9WgXcQ">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=thomasmfx&hide_border=true&theme=github_dark_dimmed&rank_icon=github&show_icons=true" />
-</a>
-<a href="https://youtu.be/dQw4w9WgXcQ">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasmfx&layout=compact&theme=github_dark_dimmed&hide_border=true&card_width=320" />
-</a>
+<div align="center">
+  <a href="https://youtu.be/dQw4w9WgXcQ">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thomasmfx&hide_border=true&theme=github_dark_dimmed&rank_icon=github&show_icons=true" />
+  </a>
+</div>
 
 <br>
 
-[🇺🇸 | EN-US](https://github.com/thomasmfx/thomasmfx/blob/main/README-en.md)
+[🇺🇸 | EN-US](https://github.com/thomasmfx/thomasmfx/blob/main/README.md)
 
 </div>
 
@@ -23,7 +22,7 @@
 - 👨‍💻 Desenvolvedor Frontend. Apaixonado por criar websites dinâmicos, intuitivos e de alto desempenho.
 - 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas na [FATEC-MC](https://www.fatecmogidascruzes.com.br/)
 - 🔠 Inglês - [C1 Avançado](https://cert.efset.org/jd3519)
-- 🌱 Atualmente aprofundando meus conhecimentos em React e ferramentas modernas de desenvolvimento web.
+- 🌱 tualmente aprofundando meus conhecimentos em React e ferramentas modernas de desenvolvimento web.
 
 <br>
 
