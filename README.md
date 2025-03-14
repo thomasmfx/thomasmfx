@@ -15,7 +15,7 @@
 
 <br>
 
-[🇺🇸 | EN-US](https://github.com/thomasmfx/thomasmfx/blob/main/README.md)
+[🇺🇸 | EN-US](https://github.com/thomasmfx/thomasmfx/blob/main/README-en.md)
 
 </div>
 
@@ -25,7 +25,7 @@
 - 👨‍💻 Desenvolvedor Frontend. Apaixonado por criar websites dinâmicos, intuitivos e de alto desempenho.
 - 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas na [FATEC-MC](https://www.fatecmogidascruzes.com.br/)
 - 🔠 Inglês - [C1 Avançado](https://cert.efset.org/jd3519)
-- 🌱 tualmente aprofundando meus conhecimentos em React e ferramentas modernas de desenvolvimento web.
+- 🌱 Atualmente aprofundando meus conhecimentos em React e ferramentas modernas de desenvolvimento web.
 
 <br>
 
