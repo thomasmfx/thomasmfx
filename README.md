@@ -10,6 +10,7 @@
   </a>
 </div>
 
+
 <br>
 
 [🇺🇸 | EN-US](https://github.com/thomasmfx/thomasmfx/blob/main/README.md)
@@ -28,8 +29,17 @@
 
 ## 🚀 Projetos
 
-- **💻 bitShop** - [Deploy](https://bitshop-tech.vercel.app/) | [Repositório](https://github.com/thomasmfx/bitshop) <br>
-- **💼 CVExpress** - [Deploy](https://cvexpress-rose.vercel.app/) | [Repositório](https://github.com/thomasmfx/cvexpress)
+<div align="center"> 
+  <a href="https://github.com/thomasmfx/bitshop">
+    <img heigh src="https://github-readme-stats.vercel.app/api/pin/?username=thomasmfx&repo=bitshop&hide_border=true&theme=github_dark_dimmed" />
+  </a>
+  <a href="https://github.com/thomasmfx/cvexpress">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thomasmfx&repo=cvexpress&hide_border=true&theme=github_dark_dimmed" />
+  </a>
+  <a href="https://github.com/thomasmfx/memory-card">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thomasmfx&repo=memory-card&hide_border=true&theme=github_dark_dimmed" />
+  </a>
+</div>
 
 <br>
 
@@ -37,6 +47,14 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,styledcomponents)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=git,jest,npm,linux,webpack,vite,vitest,vercel)](https://skillicons.dev)
+
+<br>
+
+<div align="center">
+  <a href="https://youtu.be/dQw4w9WgXcQ">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasmfx&hide_border=true&layout=compact&theme=github_dark_dimmed" />
+  </a>
+</div>
 
 <br>
 
