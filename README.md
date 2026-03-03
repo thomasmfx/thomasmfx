@@ -6,10 +6,9 @@
 
 <div align="center">
   <a href="https://youtu.be/dQw4w9WgXcQ">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thomasmfx&hide_border=true&theme=github_dark_dimmed&rank_icon=github&show_icons=true" />
+    <img height=200 align="center" src="./profile/stats.svg" alt="Stats"/>
   </a>
 </div>
-
 
 <br>
 
@@ -31,13 +30,13 @@
 
 <div align="center"> 
   <a href="https://github.com/thomasmfx/bitshop">
-    <img heigh src="https://github-readme-stats.vercel.app/api/pin/?username=thomasmfx&repo=bitshop&hide_border=true&theme=github_dark_dimmed" />
+    <img heigh src="./profile/pin-bitshop" alt="bitShop pin"/>
   </a>
   <a href="https://github.com/thomasmfx/cvexpress">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thomasmfx&repo=cvexpress&hide_border=true&theme=github_dark_dimmed" />
+    <img src="./profile/pin-cvexpress" alt="cvexpress pin"/>
   </a>
   <a href="https://github.com/thomasmfx/memory-card">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thomasmfx&repo=memory-card&hide_border=true&theme=github_dark_dimmed" />
+    <img src="./profile/pin-memory-card" alt="Memory Card pin"/>
   </a>
 </div>
 
@@ -52,7 +51,7 @@
 
 <div align="center">
   <a href="https://youtu.be/dQw4w9WgXcQ">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasmfx&hide_border=true&layout=compact&theme=github_dark_dimmed" />
+    <img height=200 align="center" src="./profile/top-langs.svg" alt="Top langs"/>
   </a>
 </div>
 
