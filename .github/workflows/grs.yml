@@ -31,7 +31,7 @@ jobs:
         with:
           card: pin
           options: username=${{ github.repository_owner }}&repo=bitshop&hide_border=true&theme=github_dark_dimmed
-          path: profile/pin-bitshop
+          path: profile/pin-bitshop.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin card cvexpress
@@ -39,7 +39,7 @@ jobs:
         with:
           card: pin
           options: username=${{ github.repository_owner }}&repo=cvexpress&hide_border=true&theme=github_dark_dimmed
-          path: profile/pin-cvexpress
+          path: profile/pin-cvexpress.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin card memory-card
@@ -47,7 +47,7 @@ jobs:
         with:
           card: pin
           options: username=${{ github.repository_owner }}&repo=memory-card&hide_border=true&theme=github_dark_dimmed
-          path: profile/pin-memory-card
+          path: profile/pin-memory-card.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card

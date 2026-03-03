@@ -30,13 +30,13 @@
 
 <div align="center"> 
   <a href="https://github.com/thomasmfx/bitshop">
-    <img heigh src="./profile/pin-bitshop" alt="bitShop pin"/>
+    <img heigh src="./profile/pin-bitshop.svg" alt="bitShop pin"/>
   </a>
   <a href="https://github.com/thomasmfx/cvexpress">
-    <img src="./profile/pin-cvexpress" alt="cvexpress pin"/>
+    <img src="./profile/pin-cvexpress.svg" alt="cvexpress pin"/>
   </a>
   <a href="https://github.com/thomasmfx/memory-card">
-    <img src="./profile/pin-memory-card" alt="Memory Card pin"/>
+    <img src="./profile/pin-memory-card.svg" alt="Memory Card pin"/>
   </a>
 </div>
 
