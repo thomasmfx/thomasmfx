@@ -2,7 +2,7 @@
 
 # Thomas Moisés Fernandes
 
-### Frontend Developer
+### Software Developer
 
 <div align="center">
   <a href="https://youtu.be/dQw4w9WgXcQ">
@@ -19,23 +19,23 @@
 ## 📜 About Me
 
 - 📍 São Paulo, Brazil
-- 👨‍💻 Frontend Developer. Passionate about creating dynamic, intuitive, and performant websites.
+- 👨‍💻 Software Developer. Solving problems since 2024.
 - 👨‍🎓 System Analysis and Development student at [FATEC-MC](https://www.fatecmogidascruzes.com.br/)
-- 🔠 English - [C1 Advanced](https://cert.efset.org/jd3519)
-- 🌱 Currently deepening my knowledge in React and modern web development tools.
+- 🔠 English - [C1 Advanced](./assets/TOEIC_THOMAS_FERNANDES.pdf)
+- 🌱 Currently deepening my knowledge in Software Architeture and Data Structures and Algorithms.
 
 <br>
 
 ## 🚀 Projects
 
 <div align="center"> 
-  <a href="https://github.com/thomasmfx/bitshop">
+  <a href="https://github.com/thomasmfx/bitshop" style="text-decoration: none;">
     <img heigh src="./profile/pin-bitshop.svg" alt="bitShop pin"/>
   </a>
-  <a href="https://github.com/thomasmfx/cvexpress">
+  <a href="https://github.com/thomasmfx/cvexpress" style="text-decoration: none;">
     <img src="./profile/pin-cvexpress.svg" alt="cvexpress pin"/>
   </a>
-  <a href="https://github.com/thomasmfx/memory-card">
+  <a href="https://github.com/thomasmfx/memory-card" style="text-decoration: none;">
     <img src="./profile/pin-memory-card.svg" alt="Memory Card pin"/>
   </a>
 </div>
